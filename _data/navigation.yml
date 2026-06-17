@@ -8,6 +8,10 @@ main:
     url: /Presentations/
   - title: "Projects"
     url: /Projects/
+  - title: "About Me"
+    url: /About Me/
+  - title: "Gallery"
+    url: /Gallery/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
