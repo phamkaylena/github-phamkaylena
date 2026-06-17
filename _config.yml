@@ -115,8 +115,8 @@ analytics:
 # Site Author
 author:
   name             : "Kaylena Pham"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "B.S Geological Sciences at USC"
+  avatar           : '/assets/images/image.png'
+  bio              : "B.S Geological Sciences at USC <br />Expected May 2027"
   location         : "Baldwin Park, California"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
