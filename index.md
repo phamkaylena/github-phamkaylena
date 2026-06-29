@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-### About Me
 Hi all! My name is Kaylena Pham and I am currently a senior studying Geological Sciences at the University of Southern California (USC)! Currently, I work with Prof. Sam Silva at the <a href="https://www.earthdatausc.com/">Atmospheric Composition & Earth Data Science</a> lab.
 
 More details on my projects can be found on my [Projects Page]({% link Projects.html %})
