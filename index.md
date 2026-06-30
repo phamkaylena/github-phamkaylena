@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 Hi all! My name is Kaylena Pham and I am currently a senior studying Geological Sciences at the University of Southern California (USC)! Currently, I work with Prof. Sam Silva at the <a href="https://www.earthdatausc.com/">Atmospheric Composition & Earth Data Science</a> lab.
-
-More details on my projects can be found on my [Projects Page]({% link Projects.html %})
+More details on my projects can be found on my <a href="[https://www.earthdatausc.com/](https://phamkaylena.github.io/github-phamkaylena/Projects/)">Projects Page</a>.
 
 ---
 
@@ -40,7 +39,7 @@ of low-cost air quality monitoring in across all communities.
 
 ### Contact
 
-Feel free to reach out — I'm always happy to talk about atmospheric science, air quality, or research opportunities!
+Feel free to reach out! I'm always happy to talk about atmospheric science and potential research opportunities/collaborations!
 
 - 📧 **Email:** [kdpham@usc.edu](mailto:kdpham@usc.edu)
 - 🐙 **LinkedIn:** [linkedin.com/in/kaylena-pham](https://linkedin.com/in/kaylena-pham/)
