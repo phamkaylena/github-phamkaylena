@@ -4,6 +4,7 @@ title: "Presentations"
 permalink: /Presentations/
 author_profile: true
 ---
+Here you can find my materials for all my presentations. Please click on the arrow to view my presentation materials! Please feel free to reach out if you have any questions or comments
 
 ### Conference Presentations
 
