@@ -13,7 +13,7 @@ Differ Between the Great Dismal Swamp and the Alligator River. *American Geophys
 
 <details>
 <summary>View Slides</summary>
-<iframe src="/github-phamkaylena/assets/pdfs/AGU Presentation.pdf" 
+<iframe src="https://drive.google.com/file/d/1kGptY7nM2R_inb-obXUIMoMgTetUw4c3/preview" 
   width="100%" height="600px" style="border:none; margin-top: 0.5em;"></iframe>
 </details>
 
@@ -25,7 +25,7 @@ Differ Between the Great Dismal Swamp and the Alligator River. *American Geophys
 
 <details>
 <summary>View Poster</summary>
-<iframe src="/github-phamkaylena/assets/pdfs/AMS_Pham_Poster.pdf" 
+<iframe src="https://drive.google.com/file/d/1RhUXvsUeCErpAZg4hX9qz9-2rM2t84k1/preview" 
   width="100%" height="600px" style="border:none; margin-top: 0.5em;"></iframe>
 </details>
 
@@ -41,6 +41,6 @@ Presentation.* July 2025.
 
 <details>
 <summary>View Slides</summary>
-<iframe src="/github-phamkaylena/assets/pdfs/SARP Presentation Outline.pdf" 
+<iframe src="https://drive.google.com/file/d/1pWFf8sm79UNLNq4vxwAYltPHEFRThL5D/preview" 
   width="100%" height="600px" style="border:none; margin-top: 0.5em;"></iframe>
 </details>
