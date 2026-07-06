@@ -22,7 +22,7 @@ Differ Between the Great Dismal Swamp and the Alligator River. *American Geophys
 
 **2025.** (Poster) Investigating the Impact of Ozone Dry Deposition on Saguaro Cacti 
 (*Carnegiea Gigantea*) in Saguaro National Park, Arizona. *American Meteorological Society 
-2025 Student Conference.* New Orleans, Louisiana. December. [with Sam Silva and Brian Schlaff]
+2025 Student Conference.* New Orleans, Louisiana. January. [with Sam Silva and Brian Schlaff]
 
 <details>
 <summary>View Poster</summary>
