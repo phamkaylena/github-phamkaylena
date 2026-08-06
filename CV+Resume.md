@@ -4,8 +4,6 @@ permalink: /CV+Resume/
 author_profile: true
 ---
 
-### Resume
-
 <iframe src="{{ '/assets/images/Pham, Kaylena- Resume.pdf' | relative_url }}" 
         width="100%" 
         height="800px" 
