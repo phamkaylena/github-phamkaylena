@@ -27,6 +27,7 @@ author_profile: true
     { src: "/assets/images/gallery/Getting ready for first ever flight campaign.JPG", caption: "Getting ready for my first every flight campaign with NASA SARP! (June, 2025)" },
     { src: "/assets/images/gallery/Working with WAS cans pt2.JPG", caption: "Collecting Whole Air Samples (WAS) above the Great Dismal Swamp (June, 2025)" },
     { src: "/assets/images/gallery/Flight Campaign and Me.JPG", caption: "Me in front of the Dynamic Aviation B-200 Aircraft! (June, 2025)" },
+    { src: "/assets/images/gallery/IMG_3892.PNG", caption: "Presenting on my work on Spooky Swamps at AGU 2025 (December, 2025)" },
     { src: "/assets/images/gallery/COMETLab.JPG", caption: "Working on building air quality sensors for 3D-PAWS at the NCAR COMET lab (featuring Emily Nigro and William Nicewonger) (June, 2026)" }
   ];
 
