@@ -24,12 +24,12 @@ author_profile: true
 <script>
 (function() {
   const slides = [
-    { src: "/assets/images/gallery/Getting ready for first ever flight campaign.JPG", caption: "Getting ready for my first every flight campaign with NASA SARP! (June, 2025)" },
-    { src: "/assets/images/gallery/Working with WAS cans pt2.JPG", caption: "Collecting Whole Air Samples (WAS) above the Great Dismal Swamp (June, 2025)" },
-    { src: "/assets/images/gallery/Flight Campaign and Me.JPG", caption: "Me in front of the Dynamic Aviation B-200 Aircraft! (June, 2025)" },
-    { src: "/assets/images/gallery/plot_SPOOKY.png", caption: "Combining TEMPO formaldehyde (an isoprene proxy), field-collected Whole Air Sample isoprene data, and MODIS NDVI vegetation stress classification over Alligator River, we hope to link remote sensing with field observations to better understand how vegetation stress and emmisions in wetlands." },
-    { src: "/assets/images/gallery/IMG_3892.PNG", caption: "Presenting on my work on Spooky Swamps at AGU 2025 (December, 2025)" },
-    { src: "/assets/images/gallery/COMETLab.JPG", caption: "Working on building air quality sensors for 3D-PAWS at the NCAR COMET lab (featuring Emily Nigro and William Nicewonger) (June, 2026)" }
+    { src: "/assets/images/Getting ready for first ever flight campaign.JPG", caption: "Getting ready for my first every flight campaign with NASA SARP! (June, 2025)" },
+    { src: "/assets/images/Working with WAS cans pt2.JPG", caption: "Collecting Whole Air Samples (WAS) above the Great Dismal Swamp (June, 2025)" },
+    { src: "/assets/images/Flight Campaign and Me.JPG", caption: "Me in front of the Dynamic Aviation B-200 Aircraft! (June, 2025)" },
+    { src: "/assets/images/plot_SPOOKY.png", caption: "Combining TEMPO formaldehyde (an isoprene proxy), field-collected Whole Air Sample isoprene data, and MODIS NDVI vegetation stress classification over Alligator River, we hope to link remote sensing with field observations to better understand how vegetation stress and emmisions in wetlands." },
+    { src: "/assets/images/IMG_3892.PNG", caption: "Presenting on my work on Spooky Swamps at AGU 2025 (December, 2025)" },
+    { src: "/assets/images/COMETLab.JPG", caption: "Working on building air quality sensors for 3D-PAWS at the NCAR COMET lab (featuring Emily Nigro and William Nicewonger) (June, 2026)" }
   ];
 
   let i = 0;
