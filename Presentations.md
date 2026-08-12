@@ -54,13 +54,13 @@ Presentation.* July 2025.
 
 <details>
 <summary>View Slides</summary>
-<iframe src="https://drive.google.com/file/d/1gaak436tyFk5z3RxoRRmJ3UiyC23inht/view?usp=drive_link" 
+<iframe src="https://drive.google.com/file/d/1gaak436tyFk5z3RxoRRmJ3UiyC23inht/view?usp=sharing" 
   width="100%" height="600px" style="border:none; margin-top: 0.5em;"></iframe>
 </details>
 
 <details>
 <summary>View Poster</summary>
-<iframe src="https://drive.google.com/file/d/1XBAZRu-MfBzOTtzWx7yGf-k1YxUglclN/view?usp=drive_link" 
+<iframe src="https://drive.google.com/file/d/1XBAZRu-MfBzOTtzWx7yGf-k1YxUglclN/view?usp=sharing" 
   width="100%" height="600px" style="border:none; margin-top: 0.5em;"></iframe>
 </details>
 
