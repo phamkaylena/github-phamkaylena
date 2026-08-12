@@ -14,7 +14,7 @@ More details on my projects can be found on my <a href="[https://www.earthdataus
 
 <figure style="float: right; margin: 0 0 1em 2em; width: 40%;">
   <img src="/github-phamkaylena/assets/images/IMG_2311.JPG" alt="Kaylena at research site" style="width: 100%; border-radius: 8px;">
-  <figcaption style="text-align: center; font-size: 0.85em; color: gray;">About to board NASA's research aircraft! (2025)</figcaption>
+  <figcaption style="text-align: center; font-size: 0.85em; color:#999;">About to board NASA's research aircraft! (2025)</figcaption>
 </figure>
 
 I am pursuing a B.S. in Geological Sciences at the University of Southern California (USC), 
