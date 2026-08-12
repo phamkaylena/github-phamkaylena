@@ -5,6 +5,10 @@ permalink: /Gallery/
 author_profile: true
 ---
 
+Swipe through for fun photos, cool plots, and me in action!
+
+---
+
 <div class="gallery-slideshow" style="max-width:700px;margin:2rem auto;">
   <div style="position:relative;border-radius:8px;overflow:hidden;background:#f4f4f4;">
     <img id="slide-img" src="" alt="" style="width:100%;display:block;">
