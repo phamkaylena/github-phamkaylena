@@ -17,19 +17,19 @@ author_profile: true
              width:38px;height:38px;border-radius:50%;border:none;
              background:rgba(0,0,0,0.55);color:#fff;font-size:20px;cursor:pointer;">›</button>
   </div>
-  <p id="slide-caption" style="text-align:center;font-size:0.95rem;color:#555;margin:0.75rem 0 0.5rem;"></p>
+  <p id="slide-caption" style="text-align:center;font-size:0.95rem;color:#999;margin:0.75rem 0 0.5rem;"></p>
   <div id="slide-dots" style="display:flex;gap:6px;justify-content:center;"></div>
 </div>
 
 <script>
 (function() {
   const slides = [
-    { src: "/assets/images/Getting ready for first ever flight campaign.JPG", caption: "Getting ready for my first every flight campaign with NASA SARP! (June, 2025)" },
-    { src: "/assets/images/Working with WAS cans pt2.JPG", caption: "Collecting Whole Air Samples (WAS) above the Great Dismal Swamp (June, 2025)" },
-    { src: "/assets/images/Flight Campaign and Me.JPG", caption: "Me in front of the Dynamic Aviation B-200 Aircraft! (June, 2025)" },
-    { src: "/assets/images/plot_SPOOKY.png", caption: "Combining TEMPO formaldehyde (an isoprene proxy), field-collected Whole Air Sample isoprene data, and MODIS NDVI vegetation stress classification over Alligator River, we hope to link remote sensing with field observations to better understand how vegetation stress and emmisions in wetlands." },
-    { src: "/assets/images/IMG_3892.PNG", caption: "Presenting on my work on Spooky Swamps at AGU 2025 (December, 2025)" },
-    { src: "/assets/images/COMETLab.JPG", caption: "Working on building air quality sensors for 3D-PAWS at the NCAR COMET lab (featuring Emily Nigro and William Nicewonger) (June, 2026)" }
+    { src: "https://phamkaylena.github.io/github-phamkaylena/assets/images/Getting ready for first ever flight campaign.JPG", caption: "Getting ready for my first every flight campaign with NASA SARP! (June, 2025)" },
+    { src: "https://phamkaylena.github.io/github-phamkaylena/assets/images/Working with WAS cans pt2.JPG", caption: "Collecting Whole Air Samples (WAS) above the Great Dismal Swamp (June, 2025)" },
+    { src: "https://phamkaylena.github.io/github-phamkaylena/assets/images/Flight Campaign and Me.JPG", caption: "Me in front of the Dynamic Aviation B-200 Aircraft! (June, 2025)" },
+    { src: "https://phamkaylena.github.io/github-phamkaylena/assets/images/plot_SPOOKY.png", caption: "Combining TEMPO formaldehyde (an isoprene proxy), field-collected Whole Air Sample isoprene data, and MODIS NDVI vegetation stress classification over Alligator River, we hope to link remote sensing with field observations to better understand how vegetation stress and emmisions in wetlands." },
+    { src: "https://phamkaylena.github.io/github-phamkaylena/assets/images/IMG_3892.PNG", caption: "Presenting on my work on Spooky Swamps at AGU 2025 (December, 2025)" },
+    { src: "https://phamkaylena.github.io/github-phamkaylena/assets/images/COMETLab.JPG", caption: "Working on building air quality sensors for 3D-PAWS at the NCAR COMET lab (featuring Emily Nigro and William Nicewonger) (June, 2026)" }
   ];
 
   let i = 0;
