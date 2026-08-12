@@ -45,3 +45,24 @@ Presentation.* July 2025.
 <iframe src="https://drive.google.com/file/d/1pWFf8sm79UNLNq4vxwAYltPHEFRThL5D/preview" 
   width="100%" height="600px" style="border:none; margin-top: 0.5em;"></iframe>
 </details>
+
+---
+
+### Misc. Presentations
+
+**2026.** (Oral and Poster) Characterizing PM2.5 Data in Low-Cost Air Quality Sensors. *NSF NCAR UCAR Significant Opportunities in Atmospheric Research and Science (NSF SOARS) Research Colloqium and Internship Prrogram Poster Presentations.* Boulder, Colorado. July. [with Shima Shams, Kathryn Payne, and William Nicewonger]
+
+<details>
+<summary>View Slides</summary>
+<iframe src="https://drive.google.com/file/d/1gaak436tyFk5z3RxoRRmJ3UiyC23inht/view?usp=drive_link" 
+  width="100%" height="600px" style="border:none; margin-top: 0.5em;"></iframe>
+</details>
+
+<details>
+<summary>View Poster</summary>
+<iframe src="https://drive.google.com/file/d/1XBAZRu-MfBzOTtzWx7yGf-k1YxUglclN/view?usp=drive_link" 
+  width="100%" height="600px" style="border:none; margin-top: 0.5em;"></iframe>
+</details>
+
+---
+
