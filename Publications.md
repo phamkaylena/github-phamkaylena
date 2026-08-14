@@ -15,17 +15,6 @@ author_profile: true
 
 ## Published Writing Examples
 
-### Common Threads Between Knitting and Engineering
-**Illumin Magazine, USC Viterbi School of Engineering** · Volume XXVI, Issue I · May 2026
-
-About: Published article exploring the overlap between knitting and engineering principles where I cover the binary logic of stitch patterns, the mechanics of how loops give knitted fabric its stretch and structure, and how these principles have influenced real research in soft robotics and biomedical engineering.
-
-Abstract: Knitting is a textile craft that bridges art, engineering, and computation together. From the binary structure of stitch patterns, to the mechanical properties of knitted garments, this craft is rooted in scientific principles that provide garments with different forms and functions. Understanding the science of knitting inspires modern day engineering innovations, showcasing knitting’s interdisciplinary nature that weaves creativity with science.
-
-[Read the article here](https://illumin.usc.edu/common-threads-between-knitting-and-engineering/)
-
----
-
 ### Characterizing PM2.5 Data in Low-Cost Air Quality Sensors
 **NSF NCAR SOARS** · August 2026
 
@@ -42,3 +31,16 @@ In this work, we characterize the 3D-PAWS AQ through analyzing its biases and un
 </iframe>
 
 View on OpenSky → link coming soon! · [Open in Google Drive](https://docs.google.com/document/d/1q7YDQWDzttuscYF-upOUqqu21oj40wuj/edit?usp=sharing)
+
+---
+
+### Common Threads Between Knitting and Engineering
+**Illumin Magazine, USC Viterbi School of Engineering** · Volume XXVI, Issue I · May 2026
+
+About: Published article exploring the overlap between knitting and engineering principles where I cover the binary logic of stitch patterns, the mechanics of how loops give knitted fabric its stretch and structure, and how these principles have influenced real research in soft robotics and biomedical engineering.
+
+Abstract: Knitting is a textile craft that bridges art, engineering, and computation together. From the binary structure of stitch patterns, to the mechanical properties of knitted garments, this craft is rooted in scientific principles that provide garments with different forms and functions. Understanding the science of knitting inspires modern day engineering innovations, showcasing knitting’s interdisciplinary nature that weaves creativity with science.
+
+[Read the article here](https://illumin.usc.edu/common-threads-between-knitting-and-engineering/)
+
+
