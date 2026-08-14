@@ -22,7 +22,7 @@ About: Published article exploring the overlap between knitting and engineering 
 
 Abstract: Knitting is a textile craft that bridges art, engineering, and computation together. From the binary structure of stitch patterns, to the mechanical properties of knitted garments, this craft is rooted in scientific principles that provide garments with different forms and functions. Understanding the science of knitting inspires modern day engineering innovations, showcasing knitting’s interdisciplinary nature that weaves creativity with science.
 
-[Read the article here →](https://illumin.usc.edu/common-threads-between-knitting-and-engineering/)
+[Read the article here](https://illumin.usc.edu/common-threads-between-knitting-and-engineering/)
 
 ---
 
@@ -41,4 +41,4 @@ In this work, we characterize the 3D-PAWS AQ through analyzing its biases and un
         style="border: 1px solid #ccc; border-radius: 4px;">
 </iframe>
 
-[View on OpenSky →](link coming soon!) · [Open in Google Drive →](https://docs.google.com/document/d/1q7YDQWDzttuscYF-upOUqqu21oj40wuj/edit?usp=sharing)
+View on OpenSky → link coming soon! · [Open in Google Drive](https://docs.google.com/document/d/1q7YDQWDzttuscYF-upOUqqu21oj40wuj/edit?usp=sharing)
