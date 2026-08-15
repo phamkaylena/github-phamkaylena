@@ -7,7 +7,7 @@ author_profile: true
 
 ##  Journal Publications
 
-### Investigating the impact of ozone dry deposition on saguaro cacti (Carnegiea gigantea) in Saguaro National Park, Arizona
+### Investigating the Impact of Ozone Dry Deposition on Saguaro Cacti (Carnegiea gigantea) in Saguaro National Park, Arizona
 
 *Pre-print coming soon!*
 
