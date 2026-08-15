@@ -13,7 +13,7 @@ author_profile: true
 
 ---
 
-## Published Writing Examples
+## Published Writing
 
 ### Characterizing PM2.5 Data in Low-Cost Air Quality Sensors
 **NSF NCAR SOARS** · August 2026
