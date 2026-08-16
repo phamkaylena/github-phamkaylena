@@ -13,7 +13,7 @@ Tropospheric ozone is a significant air pollutant that is linked to harmful impa
 In this work, we  conduct a sensitivity analysis of bulk surface resistance parameters to investigate the impact they have on ozone dry deposition prediction. We evaluate eleven land use types that span urban, agricultural, mixed vegetation, and barren land classifications, across five different seasonal conditions to understand the contributions each resistance term has on the overall bulk surface resistance. Through perturbing individual resistance parameters within each land-use and seasonal condition, we can quantify which processes the model is most sensitive to and how that sensitivity shifts across varying land covers and seasons. Across these land use types and seasonal categories, canopy stomatal resistances present as a dominant control on our estimations of surface resistance. Our results emphasize the need for improving bulk surface resistance estimations to better understand the variations surface resistances and uptakes characteristics play into our overall understanding of ozone dry deposition. 
 
 **Presentations:**
-- AGU 2026 
+- AGU 2026 (Submitted)
 
 ---
 
@@ -25,7 +25,7 @@ Surface level ozone pollution can negatively impact vegetation health through oz
 In this work, we combine ozone concentration data from ozone sensors on EPA air quality monitors, eddy covariance fluxes, and monthly saguaro cacti stomatal conductance data to explore the influence of CAM photosynthesis on ozone dry deposition. We observed an inverse relationship between ozone concentrations and stomatal conductance. This relationship is consistent with the hypothesis that plants with CAM pathways likely intake less surface level ozone compared to their C3 and C4 pathway plants counterparts. We further use these data points to estimate dry deposition velocity and stomatal ozone deposition fluxes to saguaro cacti. Our findings indicate that because saguaro cacti open their stomata at night, their ozone uptake is reduced compared to if the stomata were open during the daytime, in which ozone concentrations peak. Thus, CAM photosynthetic pathways may be protective against ozone and other photochemical pollutant damage. 
 
 **Presentations:**
-- AMS 2025 (Student Conference) — Poster (See Presentations tab for poster!)
+- AMS 2025 Student Conference — Poster (See Presentations tab for poster!)
 
 ---
 
@@ -48,6 +48,6 @@ Low-cost air quality sensors offer a promising way to expand PM2.5 monitoring in
 **Presentations:**
 - NSF SOARS Research Colloquium (2026) - Oral (See Presentations tab for recording!)
 - NSF NCAR, UCAR, UCP Summer Student Conference (2026) - Poster (See Presentations tab for poster!)
-- AMS 2027 (Main Conference) 
+- AMS 2027 Main Conference (Submitted)
 
 ---
