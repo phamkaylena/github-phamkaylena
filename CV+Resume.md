@@ -5,7 +5,7 @@ author_profile: true
 ---
 ### CV
 
-<iframe src="{{ 'docs/assets/images/Kaylena Pham CV Draft.docx.pdf' | relative_url }}" 
+<iframe src="{{ '/assets/images/Kaylena Pham CV Draft.docx.pdf' | relative_url }}" 
         width="100%" 
         height="800px" 
         style="border: 1px solid #ccc; border-radius: 4px;">
